@@ -103,6 +103,17 @@ If the lesion is malignant, the model predicts the exact cancer type.
 - Flask / FastAPI
 
 ---
+## 📊 Model Training and Analysis
+
+The development of the model and all experiments are available in the notebook below:
+
+➡️ [Access the Jupyter Notebook](./Rapport_projet_AWOUNANG_DONFACK_KABAWA.ipynb)
+
+This notebook includes:
+- Data preprocessing
+- Model training
+- Performance evaluation
+
 
 ## Example API Output
 
@@ -114,10 +125,4 @@ If the lesion is malignant, the model predicts the exact cancer type.
 }
 
 
-Project Goal
 
-The final goal of this project is to build an intelligent diagnostic assistance system capable of supporting dermatologists in the early detection of skin cancer.
-=======
-# skin-cancer-detection-and-classification
-Notre challenge est donc de pouvoir, d’une part, concevoir, entraîner et valider un modèle de Deep Learning qui va pouvoir classifier les types de lésions à partir d’images dermatoscopiques de patients, et d’autre part, à partir de cette classification données.
->>>>>>> b8da28f96fd645bf3cb3aa18a8387f8608debb4b
